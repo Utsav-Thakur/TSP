@@ -1,4 +1,4 @@
-# TSP Cost Optimization using QIGWO & Portfolio Website
+# TSP Cost Optimization using QIGWO 
 
 An interactive, responsive single-page portfolio website showcasing a highly optimized metaheuristic engine for the **Travelling Salesperson Problem (TSP)** using a hybrid **Queen-Influence Genetic Algorithm (QIGA)** and **Grey Wolf Optimization (GWO)**.
 
